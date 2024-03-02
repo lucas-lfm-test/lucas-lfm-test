@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Lucas Mendes
 
--- Essa é minha conta secundária, acesse minha conta principal [aqui](https://github.com/lucas-lfm)
+- Essa é minha conta secundária, acesse minha conta principal [aqui](https://github.com/lucas-lfm)
 
 
 <!---
